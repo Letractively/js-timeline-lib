@@ -1,0 +1,7 @@
+#summary One-sentence summary of this page.
+
+=JavaScript Timeline Library=
+
+==Introduction==
+
+Draw a chart showing periods as a timeline in your browser using JavaScript.
