@@ -3,8 +3,9 @@
 
 	@created: 15/10/2012
 	@author: Edson Mattos - edsonmattos@gmail.com
-	@version: 1.0
-
+	@version: 1.0.0
+  @url: http://code.google.com/p/js-timeline-lib
+  
 	Draw a chart showing periods as a timeline in your browser using JavaScript.
 */
 
